@@ -1,4 +1,4 @@
-![Udoka talks at Google](https://lh3.googleusercontent.com/pw/AL9nZEW1wdctcxXphLOYPoYbr_fQRocJgwtevGSu8y0ZYSBSry3Hozku6onnLLDzqQjtG7UBaFgbLDNjT90zxJPR1PHd5ASy5qeCcWvLv5xMHYeZqctlpXDJJKDoUq_vk8IEnsvkF7z_Kh4d883ecxK0wIvW=w940-h626-no?authuser=0)
+![Udoka talks at Google](https://media-exp1.licdn.com/dms/image/C4D22AQEnt1L8hvouTw/feedshare-shrink_2048_1536/0/1660958106291?e=1663804800&v=beta&t=A4fFTCfqQDdwfETrjXdy6iC5by-XqbpnWxX17TmfEzo)
 
 ## Hi👋 My name is Udoka
 
