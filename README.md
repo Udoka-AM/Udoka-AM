@@ -1,6 +1,6 @@
 ![Udoka talks at Google](https://pbs.twimg.com/media/FZ9Z43PXgAEOKiT?format=jpg&name=large)
 
-## Hi👋 My name is Udoka
+## Hi👋 I am Udoka
 
 
 ### Web3 Developer
