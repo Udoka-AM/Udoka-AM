@@ -7,6 +7,7 @@ I am interested in developer relations and advocacy.
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/udoka_am?style=for-the-badge&logo=x&logoSize=auto&labelColor=blue&link=https%3A%2F%2Fx.com%2Fudoka_AM)
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg7PcGEygT1gNcjU1J5eWKw?style=for-the-badge&logoSize=auto&label=youtube)
 
 
 
