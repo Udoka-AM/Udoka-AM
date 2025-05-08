@@ -1,5 +1,5 @@
 
-### Hey :wave:
+### Hey there :wave:
 
 I am a developer who leans towards blockchain, security, and community
 
