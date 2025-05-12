@@ -1,7 +1,7 @@
 
 ### Hey :wave:
 
-I am a blockchain developer who leans towards software systems and 
+I am a blockchain developer who leans towards software systems and \
 security in SVM and rust-based chains.
 
 
