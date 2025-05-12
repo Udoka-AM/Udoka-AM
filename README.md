@@ -1,7 +1,7 @@
 
 ### Hey :wave:
 
-I am a developer relations engineer with a focus on blockchain software systems and \
+I'm a Devrel engineer with a focus on blockchain software systems and \
 security in SVM and Rust-based chains.
 
 
