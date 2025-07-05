@@ -1,7 +1,7 @@
 
 ### Hey :wave:
 
-I'm a Devrel engineer with a focus on blockchain development \
+I'm a Devrel engineer with a focus on blockchain development and 
 security in solana and Rust-based chains.
 
 
