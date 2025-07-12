@@ -1,7 +1,6 @@
 
 ### Hey :wave:
-
-I'm a Devrel engineer with a focus on blockchain development and 
+developer experience and 
 security on solana.
 
 
