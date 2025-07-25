@@ -7,3 +7,11 @@ I am a DevRel engineer with a focus on developer experience and security on Sola
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udoka-AM&show_icons=true&theme=dark&include_all_commits=true)
+## 🌟 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+
+## 💡 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🎯 Visitor Map
+![Visitor Map](https://profile-counter.glitch.me/{yourusername}/count.svg)
