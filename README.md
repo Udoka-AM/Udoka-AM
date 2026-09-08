@@ -13,7 +13,9 @@ My blockchain journey spans Ethereum, most of it's L2s, Solana, smart-wallet dev
 cloud engineering, and onchain program smart-contract security.
 
 My current projects include retinaOS on Robinhood Chain, Agents Circle on Solana,
-and fiArc a multichain stablecoin powered EU-Africa payment settlement platform.
+and fiArc a multichain stablecoin powered EU-Africa payment settlement platform. 
+
+See more about me and my work at: https://udokaam.dev/
 
 ```
 
