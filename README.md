@@ -15,10 +15,9 @@ cloud engineering, and onchain program smart-contract security.
 My current projects include retinaOS on Robinhood Chain, Agents Circle on Solana,
 and fiArc a multichain stablecoin powered EU-Africa payment settlement platform. 
 
-See more about me and my work at: [https://udokaam.dev/](https://udokaam.dev/)
+See more about me and my work at: https://udokaam.dev/
 
 ```
-[https://udokaam.dev/](https://udokaam.dev/)
 
 <a href="https://github.com/Udoka-AM">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow el-uno on GitHub" />
