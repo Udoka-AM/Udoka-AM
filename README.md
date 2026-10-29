@@ -10,7 +10,7 @@ import devrelEngineer;
 import cloudEngineer;
 
 My blockchain journey spans Ethereum, most of it's L2s, Solana, smart-wallet development, MEV defense verticals,
-cloud engineering, and onchain program smart-contract security.
+cloud engineering, and onchain program smart-contract security
 
 See more about me and my work at: https://udokaam.dev/
 
