@@ -1,31 +1,59 @@
 <div align="left">
 
-```text
-🔴 🟡 🟢                                          udokaam.dev
-───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+<pre>
+🔴 🟡 🟢  udokaam.dev
+────────────────────────────────────────────────────────
 
-import { software, blockchain, devrel, cloud } from "udoka";
+import { software, blockchain,
+         devrel, cloud } from "udoka";
 
 Hey, I'm Uddy 👋
 
-I build onchain payment infrastructure and the AI agents that run on top of it. 5+ yrs shipping on Solana, Ethereum and its L2s, Tempo, Stellar, Hyperliquid, etc.
+I build onchain payment infrastructure and the AI
+agents that run on top of it. Based in Abuja, five
+years in crypto, shipping on Solana, Ethereum and its
+L2s, Tempo, Stellar and Hyperliquid.
 
-Building now
-- [Corridor Finance](https://corridorfinance.tech): stablecoin rails that let apps, agents and merchants move money in and out of local African currencies. Live on Tempo mainnet and Stellar testnet.
-- [Agent Circle](https://agentscircle.network): traders deploy or rent ranked AI agents for financial markets. Currently being built Hyperliquid-first.
-- [Nelo](https://udoka-am.github.io/nelo): allow businesses take payments on Solana offline. Live on mainnet.
+<b>BUILDING NOW</b>
 
-Some History
-- Led product and design at Zinari Finance (now Yativo) across DeFi, NFTs and payments.
-- Built SprintIQ on a Solana Foundation grant; a Nigerian academic institution later acquired it.
-- Co-founded Seedless Wallet, which won the Bags Hackathon and the Umbra Privacy track at Colosseum.
-- Regional DevRel at Superteam Nigeria, working with the Solana Foundation: produced a Colosseum winner and landed the QuickNode and MagicBlock partnerships. 
+▸ <a href="https://corridorfinance.tech">Corridor Finance</a>
+  Stablecoin rails that let apps, agents and merchants
+  move money in and out of local African currencies.
+  Live on Tempo mainnet and Stellar testnet.
 
-Some interests: smart-wallet development · MEV defense · Solana program and smart-contract security · agent toolchains · cloud infrastructure
+▸ <a href="https://agentscircle.network">Agent Circle</a>
+  A marketplace where traders deploy or rent ranked AI
+  agents for prediction markets. Now being rebuilt
+  Hyperliquid-first.
 
-→ More at [udokaam.dev](https://udokaam.dev)
+▸ <a href="https://udoka-am.github.io/nelo">Nelo</a>
+  Lets any business take payments on Solana.
+  Live on mainnet.
 
-```
+<b>TRACK RECORD</b>
+
+▸ Regional DevRel at Superteam Nigeria, working with
+  the Solana Foundation: produced a Colosseum winner
+  and landed the QuickNode and MagicBlock partnerships.
+  Also held DevRel roles at both.
+
+▸ Co-founded Seedless Wallet: won the Bags Hackathon
+  and the Umbra Privacy track at Colosseum.
+
+▸ Built SprintIQ on a Solana Foundation grant; later
+  acquired by a Nigerian academic institution.
+
+▸ Led product and design at Zinari Finance (now Yativo)
+  across DeFi, NFTs and payments.
+
+<b>WHERE I GO DEEP</b>
+
+Smart-wallet development · MEV defense · Solana program
+and smart-contract security · agent toolchains ·
+cloud infrastructure
+
+→ More at <a href="https://udokaam.dev">udokaam.dev</a>
+</pre>
 
 <a href="https://github.com/Udoka-AM">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow el-uno on GitHub" />
