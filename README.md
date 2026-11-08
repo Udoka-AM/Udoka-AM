@@ -17,6 +17,8 @@ Building now
 - <a href="https://agentscircle.network">Agent Circle</a>: traders deploy or rent ranked AI agents for financial markets. Currently being built
   Hyperliquid-first.
 - <a href="https://udoka-am.github.io/nelo">Nelo</a>: allow businesses take payments on Solana offline. Live on mainnet.
+- <a href="https://sealforge.udokaam.dev">sealForge</a>: private, verifiable sealed-bid auctions on Zcash. The clearing price is public, the bidders
+  aren't. Live on Zcash testnet.
 
 Some History
 - Led product and design at Zinari Finance (now Yativo) across DeFi, NFTs and payments.
