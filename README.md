@@ -6,7 +6,7 @@
 
 import { software, blockchain, devrel, cloud } from "udoka";
 
-Hey, I'm Uddy 👋
+Hey,
 
 I build onchain payment infrastructure and the AI agents that run on top of it. 5+ yrs shipping on Solana,
 Ethereum and its L2s, Tempo, Stellar, Hyperliquid, etc.
